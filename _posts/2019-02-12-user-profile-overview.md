@@ -2,7 +2,7 @@
 layout: post
 title:  "标签体系"
 date:   2019-02-12 10:31:01 +0800
-categories: user profile
+categories: 用户画像
 tag: user profile
 ---
 
