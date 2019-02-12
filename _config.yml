@@ -1,10 +1,10 @@
 # Site settings
 name: ygqbasic
-email: ygqbasic@126.com
-author: Freud Kang
-url: http://www.hifreud.com
-resume_site: http://www.hifreud.com/Resume.io/
-github: https://github.com/luoyan35714/
+email: yangguoqing89@126.com
+author: ygqbasic
+url: http://ygqbasic.github.io
+resume_site: https://github.com/ygqbasic/
+github: https://github.com/ygqbasic/
 baseurl: ""
 description: Actually, less is more!
 meta_description: 个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
