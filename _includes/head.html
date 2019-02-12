@@ -13,6 +13,20 @@
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl }}">
 	<link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ '/feed.xml' | prepend: site.baseurl }}">
 	
+	<style>
+		table{
+		  border-left:1px solid #000000;border-top:1px solid #000000;
+		  width: 100%;
+		  word-wrap:break-word; word-break:break-all;
+		}
+		table th{
+		text-align:center;
+		}
+		table th,td{
+		  border-right:1px solid #000000;border-bottom:1px solid #000000;
+		}
+	  </style>
+
 	<meta name="keywords" content="{{ page.title | append: ', ' | append: site.name | append: ', ' | append: site.meta_description}}">
 	<meta name="description" content="{{site.meta_description}}">
 
