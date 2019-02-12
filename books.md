@@ -11,5 +11,5 @@ permalink: /books/
 2019书单
 -----------------------------------------------------------------
 
-+ [《Kubernetes指南》](https://github.com/feiskyer/kubernetes-handbook "Kubernetes指南")
++ [《Kubernetes指南》](https://kubernetes.feisky.xyz/ "Kubernetes指南")
 
