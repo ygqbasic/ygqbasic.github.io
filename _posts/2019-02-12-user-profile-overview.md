@@ -28,6 +28,13 @@ tag: user profile
 A111U 001_001
 ```
 
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 #### 1、标签主题：
 用于刻画属于那种类型的标签，如用户属性、用户行为、用户消费、风险控制等多种类型，可用A、B、C、D等字母表示各标签主题；
 #### 2、标签类型：
